@@ -1,0 +1,145 @@
+header {
+    margin-left: 63px;
+    margin-top: 41px;
+}
+
+#htmltag {
+    font-size: 48px;
+    font-weight: 700;
+    color: #30CBC2;
+    display: inline-block;
+    font-family: inter;
+}
+
+nav {
+    display: inline-block;
+}
+
+a {
+    margin-left: 60px;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+    font-family: "BPG Arial", sans-serif;
+}
+
+.newsinfo {
+    margin-top: 120px;
+}
+
+.newscenter {
+    margin: 0 auto;
+    width: 1052px;
+    height: 462px;
+    margin-top: 97px;
+}
+
+.photo1 {
+    width: 100%;
+}
+
+#news {
+    display: inline-block;
+    font-size: 26px;
+    font-weight: 700;
+    color: #4E6FAE;
+}
+
+#newsdetails {
+    display: inline-block;
+    font-size: 26px;
+    font-weight: 400;
+    color: #4E6FAE;
+}
+
+.greydiv {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    
+    
+}
+
+.boxes {
+    width: 100%;
+    margin-top: 26px;
+}
+
+.image1{
+     display: inline-block;
+     margin-top: 20px;
+}
+
+.image2 {
+    display: inline-block;
+    margin-top: 9px;
+}
+
+.loop {
+    width: 77px;
+    height: 77px;
+    padding-left: 36px;
+    display: inline;
+
+}
+
+.correct {
+    width: 89px;
+    height: 89px;
+    padding-left: 38px;
+    display: inline;
+}
+
+.name {
+    padding-left: 23px;
+    padding-top: 9px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #3F4145;
+    font-family: Roboto;
+}
+
+.txt {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.text {
+    display: inline-block;
+    width: 320px;
+    height: 95px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #7E8898;
+    margin-left: 30px;
+    letter-spacing: 1px;
+    font-family: Roboto;
+}
+
+
+
+.logo {
+    margin-top: -100px;
+}
+
+#fblogo {
+    width: 50px;
+    height: 50px;
+
+}
+
+.line {
+    width: 2px;
+    height: 48px;
+    background-color: #5012D5;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#ytlogo {
+    width: 71px;
+    height: 49px;
+}

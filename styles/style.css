@@ -1,0 +1,128 @@
+body {
+    padding-top: 36px;
+    padding-left: 52px;
+    padding-right: 96px;
+}
+
+#htmltag {
+    font-size: 48px;
+    font-weight: 700;
+    color: #30CBC2;
+    display: inline-block;
+    font-family: inter;
+}
+
+nav {
+    display: inline-block;
+}
+
+a {
+    margin-left: 60px;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+    font-family: "BPG Arial", sans-serif;
+}
+
+a.active {
+    color: #4E6FAE;
+}
+
+.day {
+    margin-top: 44px;
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    box-sizing: border-box;
+    padding: 8px 8px 8px 11px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #84FF81;
+    font-family: Helvetica;
+}
+
+.month {
+    margin-top: 18px;
+    font-size: 32px;
+    font-weight: 400;
+    color: #8D81FF;
+    font-family: "BPG Nino Mkhedruli", sans-serif;
+    margin-bottom: 8px;
+}
+
+.description {
+    font-size: 20px;
+    font-family: 700;
+    color: #4E6FAE;
+    font-family: "ALK Rounded Mtav Med", sans-serif;
+}
+
+.info {
+    margin-top: 13px;
+    margin-bottom: 155px;
+}
+
+.photo {
+    display: inline;
+    height: 280px;
+    width: 447px;
+    margin-right: 66px;
+    margin-top: 15px;
+}
+
+.textsize {
+    display: inline;
+}
+
+.text {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    color: #4E6FAE;
+    font-family: "BPG Square", sans-serif;
+    width: 1000px;
+    letter-spacing: 1.5px;
+    vertical-align: top;
+}
+
+.text3 {
+    margin-top: 32px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #4E6FAE;
+    font-family: "BPG Square", sans-serif;
+    width: 1121px;
+    letter-spacing: 1.5px;
+    vertical-align: top;
+    font-family: "BPG Nostalgia", sans-serif;
+    margin-bottom: 143px;
+}
+
+
+
+.logo {
+    margin-top: 90px;
+    margin-bottom: 106px;
+}
+
+#fblogo {
+    width: 50px;
+    height: 50px;
+
+}
+
+.line {
+    width: 2px;
+    height: 48px;
+    background-color: #5012D5;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#ytlogo {
+    width: 71px;
+    height: 49px;
+}
+
